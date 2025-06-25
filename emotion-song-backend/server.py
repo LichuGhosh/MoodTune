@@ -214,7 +214,7 @@ async def submit_data(
         async with httpx.AsyncClient() as client:
             url = "http://127.0.0.1:9000/predict/"
             data = {
-                "email": "anonymous@11e45874x157ample.com",
+                "email": "ghoshsoumi614@gmail.com",
                 "text": combined_text,
                 "lang":language,
                 # "image_path": image_path

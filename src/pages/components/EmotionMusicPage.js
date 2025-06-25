@@ -629,7 +629,7 @@ const EmotionMusicPage = () => {
   const [emotion, setEmotion] = useState("");
   const [modalOpen, setModalOpen] = useState(false);
 
-  const email = "anonymous@11e45874x157ample.com";
+  const email = "ghoshsoumi614@gmail.com";
 
   useEffect(() => {
     const fetchUserEmotions = async () => {
