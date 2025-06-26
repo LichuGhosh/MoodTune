@@ -1,4 +1,5 @@
-#MoodTune: Smart Music Recommendations from Your Mood
+# MoodTune: Smart Music Recommendations from Your Mood
+
 In today's digital world, emotional expression has shifted to online platforms, demanding emotionally intelligent systems. This web-based project recommends songs and playlists based on users' moods, extracted from text inputs using NLP, deep learning, and LLMs.
 
 Users log in securely via Google OAuth and take a quiz-based emotional input.
