@@ -1,3 +1,17 @@
+#MoodTune: Smart Music Recommendations from Your Mood
+In today's digital world, emotional expression has shifted to online platforms, demanding emotionally intelligent systems. This web-based project recommends songs and playlists based on users' moods, extracted from text inputs using NLP, deep learning, and LLMs.
+
+Users log in securely via Google OAuth and take a quiz-based emotional input.
+Text input is processed through an emotion model (9 emotions) and sentiment model (3 sentiments).
+Hybrid fusion: 60% weight to emotion + 40% to sentiment generates a mood vector.
+A 9×3 emotion-sentiment matrix classifies the mood into categories like comfort, reflective, or energetic.
+Google Gemini LLM dynamically generates music search queries.
+Spotify API fetches tailored playlists with title, album, and cover art.
+This system reduces manual curation, boosts relevance, and enhances emotional context awareness—offering a smart, emotionally-aware listening experience.
+
+
+
+
 <<<<<<< HEAD
 <<<<<<< HEAD
 # Getting Started with Create React App
